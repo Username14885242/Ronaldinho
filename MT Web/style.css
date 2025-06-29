@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+  font-size: 30px;
+   background-color: black;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+}
+
+.h1 {
+  color: yellowgreen;
+  font-size: 30px;
+}
+
+.icons {
+  color: yellowgreen;
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.dada {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.R {
+  text-align: center;
+  margin: 15px;
+  font-size: 50px;
+}
+
+.text {
+ max-width: 750px;
+ align-self: center;
+ margin: 35px;
+ font-size: 30px;
+}
+
+.futbalist {
+  width: 500px;
+  align-self: center;
+  margin: 35px;
+}
+
+.nizhe {
+  display: flex;
+  font-size: 25px;
+  justify-content: center;
+  gap: 50px;
+  width: 1500px;
+  margin: 100px;
+}
+
+.h1_nizhe {
+  grid-column: span 4;
+  text-align: center;
+  margin: 35px;
+  font-size: 25px;
+}
+
+.block {
+  flex-basis: 600px;
+  box-shadow: 0 0 5px black;
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 5%;
+}
+
+.menuu {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  text-decoration: none;
+  justify-content: center;
+  font-size: 25px;
+}
+
+.iconss {
+  color: yellowgreen;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  text-decoration: none;
+  margin: 50px;
+  font-size: 25px;
+}
+
+.iconss li {
+  margin: 10px;
+}
+
+.nyamka {
+  text-align: center;
+  font-size: 35px;
+  color: yellowgreen;
+  padding: 65px;
+}
+
+.nizhe_v_kvadrate {
+  background-color: black;
+  height: 400px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: yellowgreen;
+}
+
+.menuu a {
+  text-decoration: none;
+  color: yellowgreen;
+
+}
+
+.textt {
+ max-width: 750px;
+ align-self: center;
+ margin: 35px;
+ font-size: 20px;
+ color: gray;
+}
+
+.Rr {
+  text-align: center;
+  margin: 25px;
+  font-size: 50px;
+}
+
+.font {
+  font-family: sans-serif;
+  background-color: white;
+}
